@@ -12,3 +12,6 @@ There are solution for HackerRank Examples. I'm using javascript for these solut
 - Divisible Sum Pair
 - Migratory Birds
 - Sock Merchants
+- Extra Long Factorial
+- Non-Divisible Sunset
+- Queen Attack II
